@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../symfonyApiAuth"
+		},
+		{
+			"path": "../symfonyFullWebsite"
+		}
+	],
+	"settings": {}
+}
